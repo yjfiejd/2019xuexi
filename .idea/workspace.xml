@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3214e22c-f9d1-4c33-a30b-960f6a9a443f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CRF_lianxi/chainer_implementation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRF_lianxi/chainer_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/CRF_lianxi/chainer_implementation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/2019xuexi$chainer_implementation.coverage" NAME="chainer_implementation Coverage Results" MODIFIED="1552869052630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CRF_lianxi" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1968346112">
@@ -31,12 +33,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="563" />
+          <entry key="py" value="1116" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="563" />
+          <entry key="Python" value="1116" />
         </counts>
       </usages-collector>
     </session>
@@ -46,13 +48,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CRF_lianxi/chainer_implementation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="318">
+              <caret line="286" column="25" lean-forward="true" selection-start-line="286" selection-start-column="25" selection-end-line="286" selection-end-column="25" />
               <folding>
-                <marker date="1552837193589" expanded="true" signature="88:89" ph="..." />
-                <marker date="1552837193589" expanded="true" signature="88:94" ph="..." />
-                <marker date="1552837193589" expanded="true" signature="220:229" ph="..." />
-                <marker date="1552837193589" expanded="true" signature="710:719" ph="..." />
+                <element signature="e#132#150#0" expanded="true" />
+                <marker date="1552869102216" expanded="true" signature="560:561" ph="..." />
+                <marker date="1552869102216" expanded="true" signature="560:566" ph="..." />
+                <marker date="1552869102216" expanded="true" signature="1584:1593" ph="..." />
               </folding>
             </state>
           </provider>
@@ -84,9 +86,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="803" />
+    <option name="x" value="495" />
     <option name="y" value="23" />
-    <option name="width" value="637" />
+    <option name="width" value="945" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -146,6 +148,35 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="chainer_implementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2019xuexi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CRF_lianxi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CRF_lianxi/chainer_implementation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.chainer_implementation" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -160,21 +191,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="803" y="23" width="637" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="495" y="23" width="945" height="877" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21270718" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14396456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.4611465" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3821656" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -195,13 +225,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CRF_lianxi/chainer_implementation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="318">
+          <caret line="286" column="25" lean-forward="true" selection-start-line="286" selection-start-column="25" selection-end-line="286" selection-end-column="25" />
           <folding>
-            <marker date="1552837193589" expanded="true" signature="88:89" ph="..." />
-            <marker date="1552837193589" expanded="true" signature="88:94" ph="..." />
-            <marker date="1552837193589" expanded="true" signature="220:229" ph="..." />
-            <marker date="1552837193589" expanded="true" signature="710:719" ph="..." />
+            <element signature="e#132#150#0" expanded="true" />
+            <marker date="1552869102216" expanded="true" signature="560:561" ph="..." />
+            <marker date="1552869102216" expanded="true" signature="560:566" ph="..." />
+            <marker date="1552869102216" expanded="true" signature="1584:1593" ph="..." />
           </folding>
         </state>
       </provider>
