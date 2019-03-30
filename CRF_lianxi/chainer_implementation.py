@@ -3,6 +3,8 @@
 
 # 参考：https://github.com/createmomo/CRF-Layer-on-the-Top-of-BiLSTM
 
+import allennlp
+
 import numpy as np
 import chainer
 import chainer.links as L
