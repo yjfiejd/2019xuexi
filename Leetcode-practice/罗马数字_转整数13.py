@@ -88,6 +88,3 @@ print('第二个程序运行时间：', str(end2 - start2))
 
 print("结果：", b)
 
-0 + M + C + (M-C) + X
-
-0 + M + C + M
