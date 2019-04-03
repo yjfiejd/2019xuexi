@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3214e22c-f9d1-4c33-a30b-960f6a9a443f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode-practice/最长公共前缀-14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode-practice/有效的括号.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/2019xuexi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2019xuexi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode-practice/罗马数字_转整数13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode-practice/罗马数字_转整数13.py" afterDir="false" />
-    </list>
+    <list default="true" id="3214e22c-f9d1-4c33-a30b-960f6a9a443f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,8 +103,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Leetcode-practice/有效的括号.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -168,8 +162,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="536" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="410" />
     <option name="y" value="23" />
     <option name="width" value="904" />
     <option name="height" value="877" />
@@ -186,11 +180,6 @@
             <path>
               <item name="2019xuexi" type="b2602c69:ProjectViewProjectNode" />
               <item name="2019xuexi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019xuexi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019xuexi" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode-practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -374,15 +363,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="536" y="23" width="904" height="877" extended-state="1" />
-    <editor active="true" />
+    <frame x="410" y="23" width="904" height="877" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15158372" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24361949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39363056" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,7 +379,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50052357" side_tool="true" weight="0.44585988" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49947643" weight="0.36815286" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49947643" visible="true" weight="0.36815286" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.34649682" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -551,8 +539,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode-practice/有效的括号.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
