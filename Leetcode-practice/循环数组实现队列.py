@@ -77,7 +77,6 @@ a.enqueue(12)
 print("queue = " ,a._data)
 b = a.dequeue()
 print("queue = ", a._data)
-
 print("b = ", b)
 
 
