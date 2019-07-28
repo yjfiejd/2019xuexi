@@ -10,3 +10,11 @@ gen
 /allennlp-master/
 /inspection_mapping/
 /knowledge_graph/
+/Pytorch_new/.data/
+/Pytorch_new/glove.6B.100d.txt
+/Pytorch_new/wordavg-model.pt
+
+/Pytorch_new/.vector_cache/
+/Pytorch_new/.pytest_cache/
+/CRF_lianxi/
+/chat_bot/

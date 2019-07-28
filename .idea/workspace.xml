@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3214e22c-f9d1-4c33-a30b-960f6a9a443f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pytorch_new/FizzBuzz_new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytorch_new/RNN_numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytorch_new/for_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytorch_new/第三课-language_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/2019xuexi$model.coverage" NAME="第三课核心model Coverage Results" MODIFIED="1563843797773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
     <SUITE FILE_PATH="coverage/2019xuexi$cnn_text_classification.coverage" NAME="cnn_text_classification Coverage Results" MODIFIED="1553647755338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN_text_classification" />
     <SUITE FILE_PATH="coverage/2019xuexi$Maximum_Length_of_Repeated_Subarray_718.coverage" NAME="Maximum Length of Repeated Subarray_718 Coverage Results" MODIFIED="1560588924461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
-    <SUITE FILE_PATH="coverage/2019xuexi$.coverage" NAME="平方值多少种取值 Coverage Results" MODIFIED="1556336092370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$pytest_in_RNN_numpy_py.coverage" NAME="pytest in RNN_numpy.py Coverage Results" MODIFIED="1563730221157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
-    <SUITE FILE_PATH="coverage/2019xuexi$for_test.coverage" NAME="for_test Coverage Results" MODIFIED="1563239577292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
+    <SUITE FILE_PATH="coverage/2019xuexi$.coverage" NAME="第四课 Coverage Results" MODIFIED="1564299049429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
+    <SUITE FILE_PATH="coverage/2019xuexi$for_test.coverage" NAME="for_test Coverage Results" MODIFIED="1564240315613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
     <SUITE FILE_PATH="coverage/2019xuexi$_14.coverage" NAME="最长公共前缀-14 Coverage Results" MODIFIED="1554341011702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$chainer_implementation.coverage" NAME="chainer_implementation Coverage Results" MODIFIED="1552869052630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CRF_lianxi" />
     <SUITE FILE_PATH="coverage/2019xuexi$_language_model.coverage" NAME="第三课-language_model Coverage Results" MODIFIED="1562892848628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
@@ -50,44 +48,49 @@
     <session id="-1968346112">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="3" />
-          <entry key="ipynb" value="2" />
-          <entry key="py" value="87" />
+          <entry key="gitignore" value="9" />
+          <entry key="ipynb" value="4" />
+          <entry key="pt" value="1" />
+          <entry key="py" value="95" />
           <entry key="txt" value="1" />
           <entry key="txt_test" value="1" />
+          <entry key="vocab" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Git file" value="3" />
-          <entry key="IPNB" value="2" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="87" />
+          <entry key="Chameleon" value="1" />
+          <entry key="Git file" value="9" />
+          <entry key="IPNB" value="4" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="95" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="4484" />
-          <entry key="py" value="49175" />
+          <entry key="Python Console" value="4782" />
+          <entry key="gitignore" value="1" />
+          <entry key="py" value="57152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="53659" />
+          <entry key="Git file" value="1" />
+          <entry key="Python" value="61934" />
         </counts>
       </usages-collector>
     </session>
@@ -98,28 +101,86 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pytorch_new/FizzBuzz_new.py">
+        <entry file="file://$PROJECT_DIR$/Pytorch_new/第三课核心model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="2505">
+              <caret line="167" selection-start-line="167" selection-end-line="167" />
               <folding>
-                <element signature="e#54#72#0" expanded="true" />
-                <marker date="1562688094175" expanded="true" signature="216:221" ph="..." />
-                <marker date="1562688094175" expanded="true" signature="303:308" ph="..." />
-                <marker date="1562688094175" expanded="true" signature="2986:3454" ph="..." />
+                <element signature="e#52#64#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pytorch_new/第三课-language_model.py">
+        <entry file="file://$PROJECT_DIR$/Pytorch_new/第四课.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1694">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="85">
+              <caret line="235" lean-forward="true" selection-start-line="32" selection-end-line="235" />
               <folding>
-                <element signature="e#62#78#0" expanded="true" />
-                <marker date="1562888995147" expanded="true" signature="3275:3597" ph="..." />
+                <element signature="e#46#58#0" expanded="true" />
+                <marker date="1564301120222" expanded="true" signature="2814:6654" ph="..." />
+                <marker date="1564301120222" expanded="true" signature="5677:6654" ph="..." />
+                <marker date="1564301120222" expanded="true" signature="6764:7531" ph="..." />
+                <marker date="1564301120222" expanded="true" signature="7605:8749" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.env/lib/python3.7/site-packages/torchtext/data/field.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="200" selection-start-line="200" selection-end-line="200" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.env/lib/python3.7/site-packages/torchtext/data/batch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.env/lib/python3.7/site-packages/torchtext/data/iterator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="156" selection-start-line="156" selection-end-line="156" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/pytorch-7月/第三课资料/第三课sentiment.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pytorch_new/第二课-词向量.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3075">
+              <caret line="205" column="17" selection-start-line="205" selection-start-column="17" selection-end-line="205" selection-end-column="17" />
+              <folding>
+                <element signature="e#258#270#0" expanded="true" />
+                <marker date="1562635948295" expanded="true" signature="6515:6746" ph="..." />
               </folding>
             </state>
           </provider>
@@ -128,25 +189,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pytorch_new/for_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <marker date="1563239621767" expanded="true" signature="92:93" ph="..." />
-                <marker date="1563239621767" expanded="true" signature="92:98" ph="..." />
-                <marker date="1563239621767" expanded="true" signature="200:201" ph="..." />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pytorch_new/RNN_numpy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1949">
-              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <state relative-caret-position="2400">
+              <caret line="160" column="34" selection-start-line="160" selection-start-column="34" selection-end-line="160" selection-end-column="34" />
               <folding>
                 <element signature="e#53#71#0" expanded="true" />
-                <marker date="1563732177145" expanded="true" signature="1086:5084" ph="..." />
                 <marker date="1563732177145" expanded="true" signature="3821:4864" ph="..." />
               </folding>
             </state>
@@ -164,11 +219,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>print</find>
-      <find>feats</find>
-      <find>target_size</find>
-      <find>loss = model</find>
-      <find>epoch</find>
       <find>sentence(feats, tags)</find>
       <find>feats, tags</find>
       <find>----------------------------------</find>
@@ -193,6 +243,12 @@
       <find>embedding_weights</find>
       <find>model</find>
       <find>calc_gradient</find>
+      <find>encoder</find>
+      <find>normal_</find>
+      <find>iterator</find>
+      <find>build</find>
+      <find>train_data</find>
+      <find>Label</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -225,7 +281,6 @@
         <option value="$PROJECT_DIR$/Leetcode-practice/平方值多少种取值.py" />
         <option value="$PROJECT_DIR$/Leetcode-practice/最后一个单词的长度58.py" />
         <option value="$PROJECT_DIR$/Leetcode-practice/Climbing_Stairs_70.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Leetcode-practice/sequence_matcher.py" />
         <option value="$PROJECT_DIR$/Leetcode-practice/my_SequenceMatcher.py" />
         <option value="$PROJECT_DIR$/Leetcode-practice/Maximum Length of Repeated Subarray_718.py" />
@@ -240,9 +295,12 @@
         <option value="$PROJECT_DIR$/Leetcode-practice/循环数组实现队列.py" />
         <option value="$PROJECT_DIR$/Pytorch_new/第二课-词向量.py" />
         <option value="$PROJECT_DIR$/Pytorch_new/FizzBuzz_new.py" />
-        <option value="$PROJECT_DIR$/Pytorch_new/第三课-language_model.py" />
-        <option value="$PROJECT_DIR$/Pytorch_new/for_test.py" />
         <option value="$PROJECT_DIR$/Pytorch_new/RNN_numpy.py" />
+        <option value="$PROJECT_DIR$/Pytorch_new/第三课-language_model.py" />
+        <option value="$PROJECT_DIR$/Pytorch_new/第三课核心model.py" />
+        <option value="$PROJECT_DIR$/Pytorch_new/for_test.py" />
+        <option value="$PROJECT_DIR$/Pytorch_new/第四课.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -253,8 +311,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="589" />
+    <option name="y" value="23" />
+    <option name="width" value="851" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -281,6 +341,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,17 +352,18 @@
             <path>
               <item name="2019xuexi" type="b2602c69:ProjectViewProjectNode" />
               <item name="2019xuexi" type="462c0819:PsiDirectoryNode" />
-              <item name="Pytorch_new" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode-practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/a1/Downloads/pycharm project_new/2019xuexi/.gitignore" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/Pytorch_new/wordavg-model.pt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -334,8 +396,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RNN_numpy">
-    <configuration name="第三课-language_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.第四课">
+    <configuration name="第四课" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2019xuexi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,29 +410,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pytorch_new/第三课-language_model.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="FizzBuzz_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2019xuexi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pytorch_new" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pytorch_new/FizzBuzz_new.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pytorch_new/第四课.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -423,6 +463,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="第三课核心model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2019xuexi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pytorch_new" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pytorch_new/第三课核心model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest in RNN_numpy.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="2019xuexi" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -440,19 +502,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.FizzBuzz_new" />
-      <item itemvalue="Python.第三课-language_model" />
       <item itemvalue="Python.for_test" />
       <item itemvalue="Python tests.pytest in RNN_numpy.py" />
       <item itemvalue="Python.RNN_numpy" />
+      <item itemvalue="Python.第三课核心model" />
+      <item itemvalue="Python.第四课" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.第四课" />
+        <item itemvalue="Python.for_test" />
+        <item itemvalue="Python.第三课核心model" />
         <item itemvalue="Python.RNN_numpy" />
         <item itemvalue="Python tests.pytest in RNN_numpy.py" />
-        <item itemvalue="Python.for_test" />
-        <item itemvalue="Python.第三课-language_model" />
-        <item itemvalue="Python.FizzBuzz_new" />
       </list>
     </recent_temporary>
   </component>
@@ -488,24 +550,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12017167" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.24958678" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16452074" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24876848" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.3289256" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="TODO" order="2" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49947643" weight="0.2687898" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.4985694" visible="true" weight="0.18313253" />
-      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49785408" weight="0.45180723" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.65180725" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49585634" weight="0.53493977" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.49947643" visible="true" weight="0.6843374" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.3299363" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49928468" weight="0.11464968" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49928468" weight="0.30955413" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50214595" side_tool="true" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50414366" side_tool="true" weight="0.6535032" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -710,6 +771,21 @@
           <line>141</line>
           <option name="timeStamp" value="109" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pytorch_new/第三课核心model.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pytorch_new/第四课.py</url>
+          <line>206</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pytorch_new/for_test.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -735,82 +811,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/palindrome_num_09.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="44" column="16" selection-start-line="44" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/链表常用操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/罗马数字_转整数13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176">
-          <caret line="50" column="17" selection-start-line="50" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/删除排序数组中重复项26.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/最大子序和-53.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/平方值多少种取值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/实现strStr()-28.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/最后一个单词的长度58.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <marker date="1556357662600" expanded="true" signature="166:483" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/浅拷贝-深拷贝.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inspection_mapping/Search_function.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/inspection_mapping/Search_function_new.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -828,13 +828,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/690644531/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="2838" column="60" selection-start-line="2838" selection-start-column="60" selection-end-line="2838" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/690644531/builtins.py" />
     <entry file="file://$PROJECT_DIR$/Leetcode-practice/Climbing_Stairs_70.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -1003,17 +997,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pytorch_new/第二课-词向量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="222" column="20" lean-forward="true" selection-start-line="222" selection-start-column="20" selection-end-line="222" selection-end-column="20" />
-          <folding>
-            <element signature="e#258#270#0" expanded="true" />
-            <marker date="1562635948295" expanded="true" signature="6515:6746" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/torch/nn/functional.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="61">
@@ -1042,37 +1025,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pytorch_new/FizzBuzz_new.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="e#54#72#0" expanded="true" />
-            <marker date="1562688094175" expanded="true" signature="216:221" ph="..." />
-            <marker date="1562688094175" expanded="true" signature="303:308" ph="..." />
-            <marker date="1562688094175" expanded="true" signature="2986:3454" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../hw6_skeleton.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pytorch_new/第三课-language_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1694">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#62#78#0" expanded="true" />
-            <marker date="1562888995147" expanded="true" signature="3275:3597" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../hw6_skeleton.ipynb" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/torch/nn/modules/rnn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1083,27 +1036,128 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/.data/imdb/aclImdb/imdb.vocab">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.env/lib/python3.7/site-packages/torchtext/datasets/imdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Untitled.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/FizzBuzz_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="e#54#72#0" expanded="true" />
+            <marker date="1562688094175" expanded="true" signature="216:221" ph="..." />
+            <marker date="1562688094175" expanded="true" signature="303:308" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/第三课-language_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" selection-start-line="10" selection-end-line="11" />
+          <folding>
+            <element signature="e#62#78#0" expanded="true" />
+            <marker date="1563757830992" expanded="true" signature="3274:3596" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/第三课核心model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2505">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+          <folding>
+            <element signature="e#52#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/pytorch-7月/第三课资料/第三课sentiment.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/第二课-词向量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3075">
+          <caret line="205" column="17" selection-start-line="205" selection-start-column="17" selection-end-line="205" selection-end-column="17" />
+          <folding>
+            <element signature="e#258#270#0" expanded="true" />
+            <marker date="1562635948295" expanded="true" signature="6515:6746" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pytorch_new/for_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <marker date="1563239621767" expanded="true" signature="92:93" ph="..." />
-            <marker date="1563239621767" expanded="true" signature="92:98" ph="..." />
-            <marker date="1563239621767" expanded="true" signature="200:201" ph="..." />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pytorch_new/RNN_numpy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1949">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state relative-caret-position="2400">
+          <caret line="160" column="34" selection-start-line="160" selection-start-column="34" selection-end-line="160" selection-end-column="34" />
           <folding>
             <element signature="e#53#71#0" expanded="true" />
-            <marker date="1563732177145" expanded="true" signature="1086:5084" ph="..." />
             <marker date="1563732177145" expanded="true" signature="3821:4864" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.env/lib/python3.7/site-packages/torchtext/data/field.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="200" selection-start-line="200" selection-end-line="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.env/lib/python3.7/site-packages/torchtext/data/batch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.env/lib/python3.7/site-packages/torchtext/data/iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/wordavg-model.pt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/第四课.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="235" lean-forward="true" selection-start-line="32" selection-end-line="235" />
+          <folding>
+            <element signature="e#46#58#0" expanded="true" />
+            <marker date="1564301120222" expanded="true" signature="2814:6654" ph="..." />
+            <marker date="1564301120222" expanded="true" signature="5677:6654" ph="..." />
+            <marker date="1564301120222" expanded="true" signature="6764:7531" ph="..." />
+            <marker date="1564301120222" expanded="true" signature="7605:8749" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

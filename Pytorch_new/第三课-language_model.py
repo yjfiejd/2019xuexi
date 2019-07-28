@@ -30,7 +30,7 @@ TEXT.build_vocab(train, max_size = MAX_VOCAB_SIZE)
 print("vocab_size : {}".format(len(TEXT.vocab)))
 
 VOCAB_SIZE = len(TEXT.vocab)
-train_iter, val_iter, test_iter = torchtext.data.BPTTIterator.splits( (train, val, test), batch_size=BATCH_SIZE, device=-1, bptt_len=32, repeat=False, shuffle=True)
+train_iter, val_iter, test_iter = torchtext.data.BPTTIterator.splits((train, val, test), batch_size=BATCH_SIZE, device=-1, bptt_len=32, repeat=False, shuffle=True)
 it = iter(train_iter)   # ??  用法
 batch = next(it)
 print(" ".join([TEXT.vocab.itos[i] for i in batch.text[:,1].data]))
