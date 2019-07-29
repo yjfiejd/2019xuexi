@@ -241,9 +241,6 @@ print('预测 结果:', predict_sentiment(sen))
 
 
 
-
-
-
 # RNN 模型  (这里使用最后一个 LSTM hidden state hT 来表示整个句子)
 
 # class RNN(nn.Module):
