@@ -1,4 +1,4 @@
-# @TIME : 2019/7/29 下午8:42
+# @TIME : 2019/7/29 下午10:42
 # @File : tire_tree.py
 
 class TrieNode:

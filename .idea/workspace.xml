@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3214e22c-f9d1-4c33-a30b-960f6a9a443f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode-practice/add_two_numbers_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode-practice/tire_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytorch_new/RNN_IMDB_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytorch_new/model_review.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytorch_new/第四课.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytorch_new/第四课.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode-practice/tire_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode-practice/tire_tree.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +20,7 @@
     <SUITE FILE_PATH="coverage/2019xuexi$.coverage" NAME="第四课 Coverage Results" MODIFIED="1564299049429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
     <SUITE FILE_PATH="coverage/2019xuexi$for_test.coverage" NAME="for_test Coverage Results" MODIFIED="1564240315613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
     <SUITE FILE_PATH="coverage/2019xuexi$_14.coverage" NAME="最长公共前缀-14 Coverage Results" MODIFIED="1554341011702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
-    <SUITE FILE_PATH="coverage/2019xuexi$tire_tree.coverage" NAME="tire_tree Coverage Results" MODIFIED="1564409525563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
+    <SUITE FILE_PATH="coverage/2019xuexi$tire_tree.coverage" NAME="tire_tree Coverage Results" MODIFIED="1564410080433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$chainer_implementation.coverage" NAME="chainer_implementation Coverage Results" MODIFIED="1552869052630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CRF_lianxi" />
     <SUITE FILE_PATH="coverage/2019xuexi$_language_model.coverage" NAME="第三课-language_model Coverage Results" MODIFIED="1562892848628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
     <SUITE FILE_PATH="coverage/2019xuexi$plus_one_66.coverage" NAME="plus_one_66 Coverage Results" MODIFIED="1561419164248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
@@ -53,16 +51,17 @@
     <session id="-1968346112">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -89,13 +88,13 @@
         <counts>
           <entry key="Python Console" value="4928" />
           <entry key="gitignore" value="1" />
-          <entry key="py" value="59602" />
+          <entry key="py" value="61124" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Git file" value="1" />
-          <entry key="Python" value="64530" />
+          <entry key="Python" value="66052" />
         </counts>
       </usages-collector>
     </session>
@@ -108,14 +107,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pytorch_new/第四课.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="262" column="1" lean-forward="true" selection-start-line="262" selection-start-column="1" selection-end-line="262" selection-end-column="1" />
+            <state relative-caret-position="100">
+              <caret line="254" column="17" selection-start-line="254" selection-start-column="17" selection-end-line="254" selection-end-column="17" />
               <folding>
                 <element signature="e#46#58#0" expanded="true" />
                 <marker date="1564303949712" expanded="true" signature="2814:6654" ph="..." />
                 <marker date="1564303949712" expanded="true" signature="5677:6654" ph="..." />
                 <marker date="1564303949712" expanded="true" signature="6764:7528" ph="..." />
-                <marker date="1564303949712" expanded="true" signature="7602:8746" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pytorch_new/model_review.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="53" column="45" lean-forward="true" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+              <folding>
+                <element signature="e#76#88#0" expanded="true" />
+                <marker date="1564586648554" expanded="true" signature="1428:2388" ph="..." />
               </folding>
             </state>
           </provider>
@@ -125,7 +136,7 @@
         <entry file="file://$PROJECT_DIR$/Pytorch_new/RNN_IMDB_classification.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -134,20 +145,19 @@
         <entry file="file://$PROJECT_DIR$/Leetcode-practice/add_two_numbers_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Leetcode-practice/tire_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="259">
+              <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
               <folding>
-                <marker date="1564409474203" expanded="true" signature="66:67" ph="..." />
-                <marker date="1564409474203" expanded="true" signature="66:72" ph="..." />
-                <marker date="1564409474203" expanded="true" signature="173:1478" ph="..." />
+                <marker date="1564410449698" expanded="true" signature="67:68" ph="..." />
+                <marker date="1564410449698" expanded="true" signature="67:73" ph="..." />
               </folding>
             </state>
           </provider>
@@ -249,6 +259,7 @@
         <option value="$PROJECT_DIR$/Pytorch_new/RNN_IMDB_classification.py" />
         <option value="$PROJECT_DIR$/Leetcode-practice/add_two_numbers_2.py" />
         <option value="$PROJECT_DIR$/Leetcode-practice/tire_tree.py" />
+        <option value="$PROJECT_DIR$/Pytorch_new/model_review.py" />
       </list>
     </option>
   </component>
@@ -258,10 +269,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="589" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="787" />
     <option name="y" value="23" />
-    <option name="width" value="851" />
+    <option name="width" value="653" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -289,7 +300,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,12 +310,13 @@
             <path>
               <item name="2019xuexi" type="b2602c69:ProjectViewProjectNode" />
               <item name="2019xuexi" type="462c0819:PsiDirectoryNode" />
-              <item name="Leetcode-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Pytorch_new" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -503,16 +514,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="698" y="23" width="742" height="877" extended-state="0" />
+    <frame x="787" y="23" width="653" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25037935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24876848" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.3289256" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.24585988" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49585634" visible="true" weight="0.43184713" />
-      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49947643" weight="0.30240965" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.53614455" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49585634" weight="0.5518072" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.49947643" visible="true" weight="0.22292994" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3299363" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
@@ -747,13 +759,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Leetcode-practice/tire_tree.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="118" />
+          <line>40</line>
+          <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Leetcode-practice/tire_tree.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="119" />
+          <line>59</line>
+          <option name="timeStamp" value="122" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -780,7 +792,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/690644531/builtins.py" />
     <entry file="file://$PROJECT_DIR$/Leetcode-practice/Climbing_Stairs_70.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -929,11 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <marker date="1562029678665" expanded="true" signature="89:94" ph="..." />
-            <marker date="1562029678665" expanded="true" signature="235:240" ph="..." />
-            <marker date="1562029678665" expanded="true" signature="311:316" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -982,9 +988,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="231" column="19" lean-forward="true" selection-start-line="231" selection-start-column="19" selection-end-line="231" selection-end-column="19" />
-          <folding>
-            <element signature="e#378#9329#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1102,39 +1105,48 @@
     <entry file="file://$PROJECT_DIR$/Pytorch_new/RNN_IMDB_classification.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pytorch_new/第四课.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="262" column="1" lean-forward="true" selection-start-line="262" selection-start-column="1" selection-end-line="262" selection-end-column="1" />
-          <folding>
-            <element signature="e#46#58#0" expanded="true" />
-            <marker date="1564303949712" expanded="true" signature="2814:6654" ph="..." />
-            <marker date="1564303949712" expanded="true" signature="5677:6654" ph="..." />
-            <marker date="1564303949712" expanded="true" signature="6764:7528" ph="..." />
-            <marker date="1564303949712" expanded="true" signature="7602:8746" ph="..." />
-          </folding>
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode-practice/add_two_numbers_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode-practice/tire_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="259">
+          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
           <folding>
-            <marker date="1564409474203" expanded="true" signature="66:67" ph="..." />
-            <marker date="1564409474203" expanded="true" signature="66:72" ph="..." />
-            <marker date="1564409474203" expanded="true" signature="173:1478" ph="..." />
+            <marker date="1564410449698" expanded="true" signature="67:68" ph="..." />
+            <marker date="1564410449698" expanded="true" signature="67:73" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/第四课.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="254" column="17" selection-start-line="254" selection-start-column="17" selection-end-line="254" selection-end-column="17" />
+          <folding>
+            <element signature="e#46#58#0" expanded="true" />
+            <marker date="1564303949712" expanded="true" signature="2814:6654" ph="..." />
+            <marker date="1564303949712" expanded="true" signature="5677:6654" ph="..." />
+            <marker date="1564303949712" expanded="true" signature="6764:7528" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/model_review.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="53" column="45" lean-forward="true" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+          <folding>
+            <element signature="e#76#88#0" expanded="true" />
+            <marker date="1564586648554" expanded="true" signature="1428:2388" ph="..." />
           </folding>
         </state>
       </provider>
