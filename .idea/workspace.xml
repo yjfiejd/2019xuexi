@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3214e22c-f9d1-4c33-a30b-960f6a9a443f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pytorch_new/model_review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode-practice/Merge_sorted_array_88.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode-practice/fib_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode-practice/三数之和_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode-practice/两数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode-practice/基本计算器_224.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode-practice/整数翻转_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode-practice/最小栈155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytorch_new/A - Using TorchText with Your Own Datasets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytorch_new/data/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytorch_new/data/train.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode-practice/tire_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode-practice/tire_tree.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,13 +25,17 @@
     <SUITE FILE_PATH="coverage/2019xuexi$cnn_text_classification.coverage" NAME="cnn_text_classification Coverage Results" MODIFIED="1553647755338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN_text_classification" />
     <SUITE FILE_PATH="coverage/2019xuexi$Maximum_Length_of_Repeated_Subarray_718.coverage" NAME="Maximum Length of Repeated Subarray_718 Coverage Results" MODIFIED="1560588924461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$pytest_in_RNN_numpy_py.coverage" NAME="pytest in RNN_numpy.py Coverage Results" MODIFIED="1563730221157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
-    <SUITE FILE_PATH="coverage/2019xuexi$.coverage" NAME="第四课 Coverage Results" MODIFIED="1564299049429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
+    <SUITE FILE_PATH="coverage/2019xuexi$.coverage" NAME="两数之和 Coverage Results" MODIFIED="1564906218436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$for_test.coverage" NAME="for_test Coverage Results" MODIFIED="1564240315613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
+    <SUITE FILE_PATH="coverage/2019xuexi$A___Using_TorchText_with_Your_Own_Datasets.coverage" NAME="A - Using TorchText with Your Own Datasets Coverage Results" MODIFIED="1564591613631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
     <SUITE FILE_PATH="coverage/2019xuexi$_14.coverage" NAME="最长公共前缀-14 Coverage Results" MODIFIED="1554341011702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$tire_tree.coverage" NAME="tire_tree Coverage Results" MODIFIED="1564410080433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
+    <SUITE FILE_PATH="coverage/2019xuexi$codecs.coverage" NAME="codecs Coverage Results" MODIFIED="1567332581717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/anaconda3/lib/python3.7" />
     <SUITE FILE_PATH="coverage/2019xuexi$chainer_implementation.coverage" NAME="chainer_implementation Coverage Results" MODIFIED="1552869052630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CRF_lianxi" />
     <SUITE FILE_PATH="coverage/2019xuexi$_language_model.coverage" NAME="第三课-language_model Coverage Results" MODIFIED="1562892848628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
     <SUITE FILE_PATH="coverage/2019xuexi$plus_one_66.coverage" NAME="plus_one_66 Coverage Results" MODIFIED="1561419164248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
+    <SUITE FILE_PATH="coverage/2019xuexi$_15.coverage" NAME="三数之和_15 Coverage Results" MODIFIED="1565018998814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
+    <SUITE FILE_PATH="coverage/2019xuexi$_224.coverage" NAME="基本计算器_224 Coverage Results" MODIFIED="1565363616167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$for_testing.coverage" NAME="for_testing Coverage Results" MODIFIED="1560792771895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chat_bot" />
     <SUITE FILE_PATH="coverage/2019xuexi$FizzBuzz.coverage" NAME="FizzBuzz Coverage Results" MODIFIED="1562029649091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
     <SUITE FILE_PATH="coverage/2019xuexi$Reverse_integer.coverage" NAME="Reverse_integer Coverage Results" MODIFIED="1553821114192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
@@ -31,8 +43,10 @@
     <SUITE FILE_PATH="coverage/2019xuexi$for_6_23.coverage" NAME="for_6-23 Coverage Results" MODIFIED="1561270818124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_testing" />
     <SUITE FILE_PATH="coverage/2019xuexi$_.coverage" NAME="第二课-词向量 Coverage Results" MODIFIED="1562636191051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
     <SUITE FILE_PATH="coverage/2019xuexi$RNN_numpy.coverage" NAME="RNN_numpy Coverage Results" MODIFIED="1563732140790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
+    <SUITE FILE_PATH="coverage/2019xuexi$_7.coverage" NAME="整数翻转_7 Coverage Results" MODIFIED="1566259728495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$Climbing_Stairs_70.coverage" NAME="Climbing_Stairs_70 Coverage Results" MODIFIED="1559261203432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$_13.coverage" NAME="罗马数字_转整数13 Coverage Results" MODIFIED="1553954347494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
+    <SUITE FILE_PATH="coverage/2019xuexi$155.coverage" NAME="最小栈155 Coverage Results" MODIFIED="1565051215670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$58.coverage" NAME="最后一个单词的长度58 Coverage Results" MODIFIED="1556357509036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$lstm_crf.coverage" NAME="lstm_crf Coverage Results" MODIFIED="1555509618104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CRF_lianxi" />
     <SUITE FILE_PATH="coverage/2019xuexi$26.coverage" NAME="删除排序数组中重复项26 Coverage Results" MODIFIED="1554769176186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
@@ -42,6 +56,7 @@
     <SUITE FILE_PATH="coverage/2019xuexi$strStr___28.coverage" NAME="实现strStr()-28 Coverage Results" MODIFIED="1555027691949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$palindrome_num_09.coverage" NAME="palindrome_num_09 Coverage Results" MODIFIED="1553930989087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$for_testing1.coverage" NAME="for_testing1 Coverage Results" MODIFIED="1560581151699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/for_testing" />
+    <SUITE FILE_PATH="coverage/2019xuexi$Merge_sorted_array_88.coverage" NAME="Merge_sorted_array_88 Coverage Results" MODIFIED="1567332999925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$sequence_matcher.coverage" NAME="sequence_matcher Coverage Results" MODIFIED="1560268797319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$add_two_numbers_2.coverage" NAME="add_two_numbers_2 Coverage Results" MODIFIED="1564330744919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode-practice" />
     <SUITE FILE_PATH="coverage/2019xuexi$numpy_.coverage" NAME="numpy_实现两层神经网络 Coverage Results" MODIFIED="1562029228322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pytorch_new" />
@@ -68,8 +83,9 @@
         <counts>
           <entry key="gitignore" value="9" />
           <entry key="ipynb" value="4" />
+          <entry key="json" value="2" />
           <entry key="pt" value="1" />
-          <entry key="py" value="98" />
+          <entry key="py" value="109" />
           <entry key="txt" value="1" />
           <entry key="txt_test" value="1" />
           <entry key="vocab" value="1" />
@@ -80,21 +96,22 @@
           <entry key="Chameleon" value="1" />
           <entry key="Git file" value="9" />
           <entry key="IPNB" value="4" />
+          <entry key="JSON" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="98" />
+          <entry key="Python" value="109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="4928" />
+          <entry key="Python Console" value="5903" />
           <entry key="gitignore" value="1" />
-          <entry key="py" value="61124" />
+          <entry key="py" value="70908" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Git file" value="1" />
-          <entry key="Python" value="66052" />
+          <entry key="Python" value="76811" />
         </counts>
       </usages-collector>
     </session>
@@ -104,61 +121,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pytorch_new/第四课.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="254" column="17" selection-start-line="254" selection-start-column="17" selection-end-line="254" selection-end-column="17" />
-              <folding>
-                <element signature="e#46#58#0" expanded="true" />
-                <marker date="1564303949712" expanded="true" signature="2814:6654" ph="..." />
-                <marker date="1564303949712" expanded="true" signature="5677:6654" ph="..." />
-                <marker date="1564303949712" expanded="true" signature="6764:7528" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pytorch_new/model_review.py">
+        <entry file="file://$PROJECT_DIR$/Leetcode-practice/Merge_sorted_array_88.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="53" column="45" lean-forward="true" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
-              <folding>
-                <element signature="e#76#88#0" expanded="true" />
-                <marker date="1564586648554" expanded="true" signature="1428:2388" ph="..." />
-              </folding>
+            <state relative-caret-position="266">
+              <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pytorch_new/RNN_IMDB_classification.py">
+        <entry file="file:///anaconda3/lib/python3.7/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode-practice/add_two_numbers_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Leetcode-practice/tire_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-              <folding>
-                <marker date="1564410449698" expanded="true" signature="67:68" ph="..." />
-                <marker date="1564410449698" expanded="true" signature="67:73" ph="..." />
-              </folding>
+            <state relative-caret-position="246">
+              <caret line="309" selection-start-line="309" selection-end-line="309" />
             </state>
           </provider>
         </entry>
@@ -174,7 +150,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sentence(feats, tags)</find>
       <find>feats, tags</find>
       <find>----------------------------------</find>
       <find>tags</find>
@@ -204,6 +179,7 @@
       <find>build</find>
       <find>train_data</find>
       <find>Label</find>
+      <find>while</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,14 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CRF_lianxi/chainer_implementation.py" />
-        <option value="$PROJECT_DIR$/CNN_text_classification.py" />
-        <option value="$PROJECT_DIR$/CNN_text_classification/cnn_text_classification.py" />
-        <option value="$PROJECT_DIR$/CNN_text_classification/dataset.py" />
-        <option value="$PROJECT_DIR$/Leetcode-practice/Reverse_integer.py" />
-        <option value="$PROJECT_DIR$/Leetcode-practice/test.py" />
-        <option value="$PROJECT_DIR$/Leetcode-practice/浅拷贝-深拷贝.py" />
-        <option value="$PROJECT_DIR$/Leetcode-practice/palindrome_num_09.py" />
         <option value="$PROJECT_DIR$/Leetcode-practice/罗马数字-整数-other.py" />
         <option value="$PROJECT_DIR$/Leetcode-practice/罗马数字_转整数13.py" />
         <option value="$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/690644531/builtins.py" />
@@ -260,6 +228,17 @@
         <option value="$PROJECT_DIR$/Leetcode-practice/add_two_numbers_2.py" />
         <option value="$PROJECT_DIR$/Leetcode-practice/tire_tree.py" />
         <option value="$PROJECT_DIR$/Pytorch_new/model_review.py" />
+        <option value="$PROJECT_DIR$/Pytorch_new/data/train.json" />
+        <option value="$PROJECT_DIR$/Pytorch_new/data/test.json.py" />
+        <option value="$PROJECT_DIR$/Pytorch_new/data/test.json" />
+        <option value="$PROJECT_DIR$/Pytorch_new/A - Using TorchText with Your Own Datasets.py" />
+        <option value="$PROJECT_DIR$/Leetcode-practice/两数之和.py" />
+        <option value="$PROJECT_DIR$/Leetcode-practice/三数之和_15.py" />
+        <option value="$PROJECT_DIR$/Leetcode-practice/最小栈155.py" />
+        <option value="$PROJECT_DIR$/Leetcode-practice/基本计算器_224.py" />
+        <option value="$PROJECT_DIR$/Leetcode-practice/整数翻转_7.py" />
+        <option value="$PROJECT_DIR$/Leetcode-practice/fib_num.py" />
+        <option value="$PROJECT_DIR$/Leetcode-practice/Merge_sorted_array_88.py" />
       </list>
     </option>
   </component>
@@ -269,10 +248,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="787" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="467" />
     <option name="y" value="23" />
-    <option name="width" value="653" />
+    <option name="width" value="973" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -310,7 +289,7 @@
             <path>
               <item name="2019xuexi" type="b2602c69:ProjectViewProjectNode" />
               <item name="2019xuexi" type="462c0819:PsiDirectoryNode" />
-              <item name="Pytorch_new" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode-practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -355,30 +334,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tire_tree">
-    <configuration name="第四课" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2019xuexi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pytorch_new" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pytorch_new/第四课.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="add_two_numbers_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Merge_sorted_array_88">
+    <configuration name="最小栈155" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2019xuexi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -391,7 +348,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode-practice/add_two_numbers_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode-practice/最小栈155.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,51 +357,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2019xuexi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pytorch_new" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pytorch_new/for_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="第三课核心model" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="2019xuexi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pytorch_new" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pytorch_new/第三课核心model.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tire_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Merge_sorted_array_88" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2019xuexi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -457,7 +370,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode-practice/tire_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode-practice/Merge_sorted_array_88.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="基本计算器_224" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2019xuexi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode-practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode-practice/基本计算器_224.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="整数翻转_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2019xuexi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode-practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode-practice/整数翻转_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="codecs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2019xuexi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/anaconda3/lib/python3.7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/anaconda3/lib/python3.7/codecs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -467,19 +446,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.for_test" />
-      <item itemvalue="Python.第三课核心model" />
-      <item itemvalue="Python.第四课" />
-      <item itemvalue="Python.add_two_numbers_2" />
-      <item itemvalue="Python.tire_tree" />
+      <item itemvalue="Python.最小栈155" />
+      <item itemvalue="Python.基本计算器_224" />
+      <item itemvalue="Python.整数翻转_7" />
+      <item itemvalue="Python.Merge_sorted_array_88" />
+      <item itemvalue="Python.codecs" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tire_tree" />
-        <item itemvalue="Python.add_two_numbers_2" />
-        <item itemvalue="Python.第四课" />
-        <item itemvalue="Python.for_test" />
-        <item itemvalue="Python.第三课核心model" />
+        <item itemvalue="Python.Merge_sorted_array_88" />
+        <item itemvalue="Python.codecs" />
+        <item itemvalue="Python.整数翻转_7" />
+        <item itemvalue="Python.基本计算器_224" />
+        <item itemvalue="Python.最小栈155" />
       </list>
     </recent_temporary>
   </component>
@@ -514,21 +493,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="787" y="23" width="653" height="877" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25037935" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28338763" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24876848" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.3289256" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.53614455" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49585634" weight="0.5518072" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.49947643" visible="true" weight="0.22292994" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.3060241" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49585634" weight="0.50963855" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.49947643" weight="0.31082803" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3299363" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49928468" weight="0.29299363" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49928468" weight="0.37228915" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -767,6 +746,51 @@
           <line>59</line>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pytorch_new/A - Using TorchText with Your Own Datasets.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode-practice/两数之和.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode-practice/基本计算器_224.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode-practice/基本计算器_224.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode-practice/基本计算器_224.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode-practice/基本计算器_224.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode-practice/基本计算器_224.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode-practice/基本计算器_224.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Leetcode-practice/整数翻转_7.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -792,81 +816,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/Climbing_Stairs_70.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" selection-start-line="45" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/sequence_matcher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" selection-start-line="7" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/my_SequenceMatcher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" selection-start-line="11" selection-end-line="12" />
-          <folding>
-            <element signature="e#223#272#0" expanded="true" />
-            <marker date="1560586522568" expanded="true" signature="351:356" ph="..." />
-            <marker date="1560586522568" expanded="true" signature="982:991" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/最长公共前缀-14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-          <folding>
-            <marker date="1554341011692" expanded="true" signature="70:71" ph="..." />
-            <marker date="1554341011692" expanded="true" signature="498:1439" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/用列表实现栈.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/difflib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for_testing/for_testing1.py" />
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/有效的括号.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="104" selection-start-line="104" selection-end-line="106" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for_testing/txt_test" />
-    <entry file="file://$PROJECT_DIR$/for_testing/for_6-23.py" />
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/plus_one_66.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode-practice/remove_duplicates_sorted_list_83.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/q_cal_fun/qiqi_cal_func.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -1142,12 +1091,119 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pytorch_new/model_review.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="53" column="45" lean-forward="true" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+        <state relative-caret-position="233">
+          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
           <folding>
             <element signature="e#76#88#0" expanded="true" />
             <marker date="1564586648554" expanded="true" signature="1428:2388" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/data/test.json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/data/train.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="106" selection-start-column="106" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/data/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="60" selection-start-column="60" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pytorch_new/A - Using TorchText with Your Own Datasets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="938">
+          <caret line="81" column="35" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+          <folding>
+            <element signature="e#379#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-practice/两数之和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+          <folding>
+            <marker date="1564906197289" expanded="true" signature="495:778" ph="..." />
+            <marker date="1564906197289" expanded="true" signature="911:1153" ph="..." />
+            <marker date="1564906197289" expanded="true" signature="1306:1939" ph="..." />
+            <marker date="1564906197289" expanded="true" signature="1595:1827" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-practice/三数之和_15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="95" column="54" selection-start-line="95" selection-start-column="54" selection-end-line="95" selection-end-column="54" />
+          <folding>
+            <marker date="1565019182088" expanded="true" signature="1115:2436" ph="..." />
+            <marker date="1565019182088" expanded="true" signature="2249:2250" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-practice/最小栈155.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+          <folding>
+            <marker date="1565051267123" expanded="true" signature="787:788" ph="..." />
+            <marker date="1565051267123" expanded="true" signature="1039:1121" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-practice/基本计算器_224.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+          <folding>
+            <marker date="1565205151835" expanded="true" signature="1819:1828" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-practice/整数翻转_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="34" />
+          <folding>
+            <marker date="1566260956950" expanded="true" signature="2207:2575" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-practice/fib_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode-practice/Merge_sorted_array_88.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
         </state>
       </provider>
     </entry>
